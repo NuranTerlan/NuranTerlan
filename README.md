@@ -7,4 +7,4 @@
 
 <img align="left" alt="Nuran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NuranTerlan&show_icons=true&theme=radical" />
 
-<img align="left" alt="Nuran's helpers" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=radical" />
+<img align="left" alt="Nuran's helpers" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuranterlan&show_icons=true&theme=radical" />
