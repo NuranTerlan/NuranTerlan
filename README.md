@@ -5,4 +5,4 @@
 - 💬 Ask me about my works
 - 📫 How to reach me: nuran.terlan@mail.ru
 
-<img align="left" alt="Nuran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NuranTerlan&show_icons=true&theme=dark" />
+<img align="left" alt="Nuran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NuranTerlan&show_icons=true&theme=radical" />
