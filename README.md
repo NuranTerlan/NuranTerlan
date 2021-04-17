@@ -6,3 +6,5 @@
 - 📫 How to reach me: nuran.terlan@mail.ru | [LinkedIn Profile - Nuran Terlan](https://www.linkedin.com/in/nuran-t%C9%99rlan-3744a71a3/)
 
 <img align="left" alt="Nuran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NuranTerlan&show_icons=true&theme=radical" />
+
+<img align="left" alt="Nuran's helpers" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=radical" />
