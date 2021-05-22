@@ -1,4 +1,4 @@
-### Nice to see you in my repo garden, dear alien 👽
+### Nice to see you in my repo garden, dear code alien 👽
 > If you don't know me, I'm a fairy whale who swim in the pacific ocean but at the same time live on the earth as a common human
 
 - 🌱 I'm currently learning software engineering more deeply
